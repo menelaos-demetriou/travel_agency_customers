@@ -12,3 +12,4 @@ numpy
 scikit-learn
 seaborn
 matplotlib
+flask
