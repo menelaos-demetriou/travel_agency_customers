@@ -7,9 +7,9 @@ Also a simple flask API is developed that accepts a row with customer attributes
 and returns a prediction if the customer will convert.
 
 # Requirements
-pandas
-numpy
-scikit-learn
-seaborn
-matplotlib
-flask
+pandas 
+numpy  
+scikit-learn  
+seaborn  
+matplotlib  
+flask  
